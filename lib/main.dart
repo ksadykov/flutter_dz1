@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
                   width: 100,
                   color: Colors.yellow,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('2'),
                   ),
                 ),
                 Container(
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
                   width: 120,
                   color: Colors.green,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('3'),
                   ),
                 ),
               ],
@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
                   width: 100,
                   color: Colors.yellow,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('2'),
                   ),
                 ),
                 Container(
@@ -73,7 +73,7 @@ class MyApp extends StatelessWidget {
                   width: 120,
                   color: Colors.green,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('3'),
                   ),
                 ),
               ],
@@ -94,7 +94,7 @@ class MyApp extends StatelessWidget {
                   width: 100,
                   color: Colors.yellow,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('2'),
                   ),
                 ),
                 Container(
@@ -102,7 +102,7 @@ class MyApp extends StatelessWidget {
                   width: 120,
                   color: Colors.green,
                   child: Center(
-                    child: Text('1'),
+                    child: Text('3'),
                   ),
                 ),
               ],
